@@ -15,7 +15,7 @@ During my college process I had contact with several projects, and the one that 
 
 
 
-<h1>Habilidades</h1></br>
+<h3>Habilidades</h3></br>
 Como disse anteriormente sou um dev em construção, tenho obtido conhecimentos nas linguagens Javascript, Java, Python e PHP e em linguagem de marcação HTMl 5 e folha de estilo CSS 3.
 
 
