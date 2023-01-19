@@ -23,5 +23,17 @@ Como disse anteriormente sou um dev em construção, tenho obtido conhecimentos 
 As I said before I am a dev in the making, I have obtained knowledge in Javascript, Java, Python and PHP languages and in HTMl 5 markup language and CSS 3 stylesheet.
 
 <br><br>
-![java](https://user-images.githubusercontent.com/53497771/213576188-c8df4760-ce60-402d-8a9d-b5e203195e02.png)
 ![javascript](https://user-images.githubusercontent.com/53497771/213576192-033181d3-98d1-449b-b4e7-fb3b5067b32f.png)
+![java](https://user-images.githubusercontent.com/53497771/213576188-c8df4760-ce60-402d-8a9d-b5e203195e02.png)
+![python](https://user-images.githubusercontent.com/53497771/213577502-0c286078-fd91-4cbb-95b2-28259ed79440.png)
+![php](https://user-images.githubusercontent.com/53497771/213577500-bfc077f7-6689-4db8-a6a2-6b42ea7f6a8c.png)
+![html5](https://user-images.githubusercontent.com/53497771/213577497-5b8fdbcd-12a8-4323-b7e2-0e3d4faab58b.png)
+![css3](https://user-images.githubusercontent.com/53497771/213577495-b2714ee6-fb46-4a4f-8192-cc442ad38b2d.png)<br><br>
+<a href="https://www.linkedin.com/in/amadeuanjos/" title="linkedin" target="_blank">![linkedin](https://user-images.githubusercontent.com/53497771/213577488-615a5d8a-b427-47ad-b6f6-1963425da998.png)</a>
+![whatsapp](https://user-images.githubusercontent.com/53497771/213577492-6f162d90-6d36-413b-9519-2b9493183989.png)
+![gmail](https://user-images.githubusercontent.com/53497771/213577493-b6941204-4a82-4a12-a6cb-e371a8dd026f.png)
+
+
+
+
+
