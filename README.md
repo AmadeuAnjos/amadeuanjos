@@ -31,7 +31,7 @@ As I said before I am a dev in the making, I have obtained knowledge in Javascri
 ![css3](https://user-images.githubusercontent.com/53497771/213577495-b2714ee6-fb46-4a4f-8192-cc442ad38b2d.png)<br><br>
 <a href="https://www.linkedin.com/in/amadeuanjos/" title="linkedin" target="_blank">![linkedin](https://user-images.githubusercontent.com/53497771/213577488-615a5d8a-b427-47ad-b6f6-1963425da998.png)</a>
 <a href="https://wa.me/5511995541499?text=Ol%C3%A1+Amadeu+%21+Tudo+bem+%3F " title="whatsapp" target="_blank">![whatsapp](https://user-images.githubusercontent.com/53497771/213577492-6f162d90-6d36-413b-9519-2b9493183989.png)</a>
-<a href="https://criarmeulink.com.br/u/1674169879" title="email" target="_blank">![gmail](https://user-images.githubusercontent.com/53497771/213577493-b6941204-4a82-4a12-a6cb-e371a8dd026f.png)</a>
+<a href="mailto:anjosbarrosclean@gmail.com" title="email" target="_blank">![gmail](https://user-images.githubusercontent.com/53497771/213577493-b6941204-4a82-4a12-a6cb-e371a8dd026f.png)</a>
 
 
 
