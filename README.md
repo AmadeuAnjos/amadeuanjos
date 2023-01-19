@@ -22,3 +22,6 @@ Como disse anteriormente sou um dev em construção, tenho obtido conhecimentos 
 <h3>Skills</h3></br>
 As I said before I am a dev in the making, I have obtained knowledge in Javascript, Java, Python and PHP languages and in HTMl 5 markup language and CSS 3 stylesheet.
 
+<br><br>
+![java](https://user-images.githubusercontent.com/53497771/213576188-c8df4760-ce60-402d-8a9d-b5e203195e02.png)
+![javascript](https://user-images.githubusercontent.com/53497771/213576192-033181d3-98d1-449b-b4e7-fb3b5067b32f.png)
