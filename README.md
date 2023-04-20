@@ -18,7 +18,7 @@ The project I am proud of is the scientific and technological initiation project
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [anjosbarrosclean@gmail.com](mailto:anjosbarrosclean@gmail.com)
-* 🚀  I'm currently working on [Landing page Autopeças](http://amadeuanjos.github.io/landing-page-teclins/)
+* 🚀  I'm currently working on [Tela de Login](https://github.com/AmadeuAnjos/tela-de-login)
 * 🧠  I'm learning React
 
 ### Skills
