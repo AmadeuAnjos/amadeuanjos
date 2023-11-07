@@ -18,7 +18,8 @@ The project I am proud of is the scientific and technological initiation project
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [anjosbarrosclean@gmail.com](mailto:anjosbarrosclean@gmail.com)
-* 🚀  I'm currently working on landing page https://github.com/AmadeuAnjos/landing-page-pizzeria
+* 🚀  I'm currently working on landing page https://github.com/AmadeuAnjos/landing-page-pizzeria and https://amadeuanjos.github.io/paulinho-mec/
+
 * 🧠  I'm learning PHP and React
 
 ### Skills
