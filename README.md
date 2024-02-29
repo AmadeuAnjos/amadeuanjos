@@ -18,7 +18,7 @@ The project I am proud of is the scientific and technological initiation project
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [anjosbarrosclean@gmail.com](mailto:anjosbarrosclean@gmail.com)
-* 🚀  I'm currently working on landing page https://github.com/AmadeuAnjos/factory-4.0
+* 🚀  I'm currently working on landing page https://amadeuanjos.github.io/lics-transfer/
 
 * 🧠  I'm learning PHP and React
 
